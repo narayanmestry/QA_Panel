@@ -1,0 +1,57 @@
+
+
+.toppage-container .top-form {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px 0;
+  background: rgb(221, 221, 221);
+}
+
+
+
+.toppage-container .boxTop{
+  display: flex;
+  justify-content: space-between;
+  padding:4px 76px 4px 0 ;
+}
+
+.toppage-container .boxTop select option:hover{
+  background:red;
+}
+
+.toppage-container label {
+  padding: 5px 0 5px 80px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.toppage-container td {
+  width: 320px;
+  height: 50px;
+}
+
+
+.toppage-container input[type="text"] {
+  width: 350px;
+  height: 26px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 0 10px;
+}
+
+.toppage-container input[type="date"] {
+  width: 350px;
+  border-radius: 5px;
+  height: 26px;
+  font-size: 12px;
+  padding: 0 10px;
+}
+
+.toppage-container select {
+  word-wrap: normal;
+  width: 350px;
+  border-radius: 5px;
+  height: 25px;
+  font-size: 12px;
+  padding: 0 10px;
+}

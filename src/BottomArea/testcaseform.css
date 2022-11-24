@@ -1,0 +1,70 @@
+.modal-testcaseform-container .modal-upperform {
+    display: grid;
+    grid-template-columns: auto;
+
+}
+
+
+
+.modal-testcaseform-container .modal-upperform input[type="text"] {
+    margin-right: 50px;
+    width: 73.5%;
+}
+
+.modal-testcaseform-container .modal-upperform textarea {
+    margin-right: 50px;
+
+}
+
+.modal-testcaseform-container .modal-upperform .description * {
+    vertical-align: top;
+}
+
+.modal-testcaseform-container .modal-upperform .form-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+}
+
+.modal-testcaseform-container .modal-bottomform {
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.modal-testcaseform-container .modal-bottomform .form-box {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+}
+
+.modal-testcaseform-container .left-label {
+    padding-left: 50px;
+}
+
+.modal-testcaseform-container .modal-bottomform .left-label1{
+    width:178px;
+}
+.modal-testcaseform-container .modal-bottomform .left-select {
+    width: 60%;
+    margin-right: 40px;
+}
+
+.modal-testcaseform-container .modal-bottomform .right-select {
+    margin-right: 50px;
+    width: 49%;
+}
+
+
+.modal-testcaseform-container .modal-bottomform input[type="text"] {
+
+    width: 93%;
+    margin-left: 0;
+}
+
+.modal-testcaseform-container .modal-bottomform .text-checkbox {
+    margin-right: 50px;
+}

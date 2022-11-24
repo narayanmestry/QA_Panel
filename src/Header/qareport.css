@@ -1,0 +1,54 @@
+.report-container .report-header h4 {
+    text-align: center;
+}
+
+.report-container .report-header {
+    padding: 15px 0;
+    color: white;
+    background: black;
+}
+
+
+.backicon {
+    float: right;
+    position: fixed;
+    top: -2px;
+    right: 15px;
+    font-size: 32px;
+}
+.backicon svg {
+    color: rgb(255, 255, 255);
+}
+
+.filterby {
+    padding: 15px 10px;
+    border: 1px solid black;
+}
+
+
+
+.report-container .filter-label {
+    font-size: 12px;
+    width: 140px;
+    padding-left: 6px;
+    margin-left: 20px;
+}
+
+
+.report-container .filter-button {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.report-container .report-table {
+    padding: 15px 15px;
+}
+
+.report-container .report-table th {
+    font-size: 15px;
+}
+
+.report-container .report-table td {
+    font-size: 14px;
+}
+

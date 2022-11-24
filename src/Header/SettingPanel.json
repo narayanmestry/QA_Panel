@@ -1,0 +1,48 @@
+[
+    {
+        
+        "propertyName": "App Name",
+        "propertyDropdown": [
+            {"value":"GLUV"},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "propertyName": "App Environment:",
+        "propertyDropdown": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "propertyName": "Priority",
+        "propertyDropdown": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "propertyName": "Status",
+        "propertyDropdown": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "propertyName": "Tester Name",
+        "propertyDropdown": [
+            {},
+            {},
+            {},
+            {}
+        ]
+    }
+]

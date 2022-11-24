@@ -1,0 +1,15 @@
+.panelTable-container input[type="text"] {
+    width: 200px;
+}
+
+.panelTable-container select.left-select {
+    width: 200px;
+}
+
+.panelTable-container button.btn.btn-success.btn-sm {
+    margin-left: 100px;
+}
+
+.panelTable-container Table {
+    margin-left: 110px;
+}
